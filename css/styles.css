@@ -1,0 +1,35 @@
+h3{
+	margin-top: -10px;
+}
+
+.container{
+	width: 100%;
+}
+
+#chicken, #beef, #sushi{
+	border: 1px solid black;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding: 20px;
+	background-color: gray;
+	color: white;
+}
+
+#header-nav{
+	background-color: gray;
+	border-radius: 0;
+	border: 0;
+	color: white;
+}
+
+.navbar-toggle{
+	margin-top: 25px; 
+}
+
+.navbar-default .navbar-nav>li>a{
+	background-color: white;
+	border-bottom: 2px solid black;
+}
+.navbar-default .navbar-brand{
+	color: white;
+}
